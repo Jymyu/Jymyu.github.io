@@ -1,5 +1,5 @@
 brand:
-  name: Start Bootstrap
+  name: Jymyu
 menu-string: Menu
 
 nav:
@@ -7,9 +7,9 @@ nav:
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
-  - title: About
+  - title: Story
     url: '#about'
-  - title: Team
+  - title: About
     url: '#team'
   - title: Contact
     url: '#contact'
