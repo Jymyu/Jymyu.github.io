@@ -72,16 +72,7 @@ team:
         - icon: fa fa-linkedin
           url: "#"
 
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+   
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
