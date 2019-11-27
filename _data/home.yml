@@ -9,13 +9,13 @@ services:
   service:
     - icon: fa fa-shopping-cart
       heading: Android Developer
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: I develop Android Apps using kotlin and the best arquitectures in the market, like MVVM
     - icon: fa fa-laptop
       heading: Photography
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      text: I take my hobbie of being a photographer in a professional way. Check my portfolio to check my latest photos
     - icon: fa fa-lock
-      heading: Web Designer
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Apps Maintenance
+      text: I maintain published apps and keep them up to date
 
 portfolio:
   heading: Portfolio
