@@ -77,8 +77,8 @@ clients:
     url: "#"
 
 contact:
-  heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Contact Me
+  subheading: If you want to get in contact with me just fill the form
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
