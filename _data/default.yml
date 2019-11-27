@@ -7,9 +7,9 @@ nav:
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
-  - title: Story
+  - title: Story line
     url: '#about'
-  - title: About
+  - title: Who am I?
     url: '#team'
   - title: Contact
     url: '#contact'
