@@ -53,7 +53,7 @@ team:
            
     - name: João Parreira
       role: Android Developer
-      img: img/team/1.jpg
+      img: img/team/2.jpg
       social-buttons:
         - icon: fa fa-twitter
           url: "#"
