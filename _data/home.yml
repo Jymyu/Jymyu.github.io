@@ -48,7 +48,7 @@ about:
 
 team:
   heading: Who am I?
-  subheading: Click the buttons bellow to know more
+  subheading: Click the buttons bellow to know more about me or reach me.
   members:
            
     - name: João Parreira
@@ -56,7 +56,7 @@ team:
       img: img/team/2.jpg
       social-buttons:
         - icon: fa fa-twitter
-          url: "#"
+          url: "https://twitter.com/JooParreira13"
         - icon: fa fa-facebook
           url: "#"
         - icon: fa fa-linkedin
@@ -64,7 +64,8 @@ team:
 
    
 
-  text: I am dedicated to develop Android applications since the begining on 2019. I am from a small village from Portugal, but I want to travel all the world with my laptop on backpack.
+  text: Dedicated to develop Android applications since the begining on 2019.
+  I am from a small village from Portugal, but I want to travel all the world with my laptop, kotlin and MVVM on my backpack.
 
 
 
