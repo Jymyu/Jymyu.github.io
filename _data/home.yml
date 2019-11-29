@@ -26,22 +26,26 @@ about:
   subheading: Where I have been.
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
+      date: September 2009
       title: Our Humble Beginnings
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/2.jpg
-      date: March 2011
+      date: July 2016
       title: An Agency is Born
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/3.jpg
-      date: December 2012
+      date: May 2017
       title: Transition to Full Service
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/4.jpg
-      date: July 2014
+      date: April 2019
       title: Phase Two Expansion
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
+     - image: img/about/4.jpg
+      date: November 2019
+      title: Phase Two Expansion
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    
   end1: Be Part
   end2: Of Our
   end3: Story!
