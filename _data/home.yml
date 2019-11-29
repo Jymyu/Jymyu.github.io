@@ -30,13 +30,14 @@ about:
       title: Eletrical Engineering Master
       text:  In 2009 I began my Master in Eletrical Engineering, which, not only, gave me deep knowledge in electrical Engineering, but also a great background in programming.
     - image: img/about/2.jpg
+    
       date: July 2016
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      title: Dispatch center Operator
+      text: My role as a dispatch center operator was to manage and operate in real time Wind Farms all across Portugal remotely, located in Lisbon at GENERG.
     - image: img/about/3.jpg
       date: May 2017
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      title: Comissioning Engineer
+      text: After my experience in Lisbon I moved to ENDIPREV where I began to comission wind turbines first in France, at Saint-Nazaire, and then in the North Sea in Germany. It consisted in performing all tests from instalation in site to full production and delivery to client.
     - image: img/about/4.jpg
       date: April 2019
       title: Phase Two Expansion
