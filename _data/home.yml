@@ -40,12 +40,12 @@ about:
       text: After my experience in Lisbon I moved to ENDIPREV where I began to comission wind turbines first in France, at Saint-Nazaire, and then in the North Sea in Germany. It consisted in performing all tests from instalation in site to full production and delivery to client.
     - image: img/about/4.jpg
       date: April 2019
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      title: Android Developer
+      text: This was my first contact with Android. In ItSector I began to develop banking apps and gaining experience with kotlin, MVVM, git and much more. 
     - image: img/about/4.jpg
       date: November 2019
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      title: My first app
+      text: I began to develop my first App and at the end of November I published the first version to Goggle Play. If you want to look around just search Jymyu in the Play Store and the app is called: All Boar.
     
   end1: Be Part
   end2: Of Our
