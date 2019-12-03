@@ -18,11 +18,11 @@ copyright: Copyright &copy; Your Website 2018
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: 'https://twitter.com/JooParreira13' 
   - icon: fa fa-facebook
-    url: '#'
+    url: 'https://www.facebook.com/joao.parreira.165'
   - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.linkedin.com/in/jo%C3%A3o-parreira-16a532a1'
 
 quicklinks:
   - title: Privacy Policy
