@@ -5,11 +5,11 @@ menu-string: Menu
 nav:
   - title: Services
     url: '#services'
-  - title: Story line
-    url: '#about'
+ 
   - title: Who am I?
     url: '#team'
-  
+  - title: Story line
+    url: '#about'
 
 copyright: Copyright &copy; Your Website 2018
 
