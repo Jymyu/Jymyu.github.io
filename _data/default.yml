@@ -11,8 +11,7 @@ nav:
     url: '#about'
   - title: Who am I?
     url: '#team'
-  - title: Contact
-    url: '#contact'
+  
 
 copyright: Copyright &copy; Your Website 2018
 
