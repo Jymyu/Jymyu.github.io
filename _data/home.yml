@@ -13,7 +13,7 @@ services:
     - icon: fa fa-camera-retro
       heading: Photography
       text: I take my hobbie of being a photographer in a professional way. Check my portfolio to check my latest photos
-    - icon: fa fa-brush
+    - icon: fa fa-briefcase
       heading: Apps Maintenance
       text: I maintain published apps and keep them up to date
 
