@@ -10,7 +10,7 @@ services:
     - icon: fa fa-android
       heading: Android Developer
       text: I develop Android Apps using kotlin and the best arquitectures in the market, like MVVM
-    - icon: fa fa-laptop
+    - icon: fa fa-camera-retro
       heading: Photography
       text: I take my hobbie of being a photographer in a professional way. Check my portfolio to check my latest photos
     - icon: fa fa-lock
