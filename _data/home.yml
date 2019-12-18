@@ -7,7 +7,7 @@ services:
   heading: Services
   subheading: Check out what I do.
   service:
-    - icon: fab fa-android
+    - icon: fa fa-android
       heading: Android Developer
       text: I develop Android Apps using kotlin and the best arquitectures in the market, like MVVM
     - icon: fa fa-laptop
